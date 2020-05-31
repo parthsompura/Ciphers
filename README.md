@@ -16,5 +16,5 @@ In cryptography, a cipher (or cypher) is an algorithm for performing encryption 
 For more information, [see](https://en.wikipedia.org/wiki/Cipher)
 
 ![Caesar](gif/caeser.gif)
-![Monoalphabetic](gif/monoalphabetic)
-![Playfair](gif/playfair)
+![Monoalphabetic](gif/monoalphabetic.png)
+![Playfair](gif/playfair.gif)
