@@ -25,8 +25,11 @@ For more information, [see](https://en.wikipedia.org/wiki/Cipher)
 Follow these steps to encode with Playfair.
 
 First make the grid using your keyword. Carry the alphabet on from the end of the keyword, missing out repeated letters.
+
 ![pfair1](gif/pfair1.gif)
+
 Now break your message up into pairs. You must pad any pairs of repeated letters with an X. Pad the end of the message with an X as well if need be.
+
 ![pfair2](gif/pfair2.gif)
 
 #### Letters in the SAME ROW
@@ -34,19 +37,23 @@ Letters in the same row encipher using the letter immediately to the RIGHT. The 
 SV→TQ
 RH→DR
 HR→RD
+
 ![pfair3](gif/pfair3.gif)
 
 #### Letters in the SAME COLUMN
 Letters in the same column encipher using the letter immediately BELOW. The grid wraps around itself. Thus
 MA→TY
 AM→YT
+
 ![pfair4](gif/pfair4.gif)
 
 #### Letters in DIFFERENT ROWS AND COLUMNS
 Find the rectangle formed by the rows and columns containing the letter pair. The plain text letter pair forms one diagonal of this rectangle. The ciphertext letters are given by the other diagonal. Each plaintext letter is encoded by the letter on its row belonging to the ciphertex diagonal of the rectangle
 DU→GS
 UD→SG
+
 ![pfair5](gif/pfair5.gif)
 
 The message is encoded as follows:
+
 ![pfair6](gif/pfair6.gif)
