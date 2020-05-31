@@ -1,4 +1,4 @@
-# Cipher Algorithms   [![](https://img.shields.io/badge/Parth-Pathak-brightgreen.svg?colorB=ff0000)](https://www.linkedin.com/in/parth-pathak-learner/)
+# Cipher Algorithms   [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/ParthPathak27/Ciphers/blob/master/LICENSE)   [![](https://img.shields.io/badge/Parth-Pathak-brightgreen.svg?colorB=ff0000)](https://www.linkedin.com/in/parth-pathak-learner/)
 This code helps you to understand the different Searching algorithms. The sorting algorithms depicted in this code are:
 
 1. Caesar Cipher
