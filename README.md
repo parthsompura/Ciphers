@@ -17,6 +17,6 @@ For more information, [see](https://en.wikipedia.org/wiki/Cipher)
 
 ![Caesar](gif/caeser.gif)
 
-![Monoalphabetic](gif/monoalphabetic.png)
+![Monoalphabetic]()
 
 ![Playfair](gif/playfair.gif)
