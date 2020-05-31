@@ -1,11 +1,11 @@
 # Cipher Algorithms   [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/ParthPathak27/Ciphers/blob/master/LICENSE)   [![](https://img.shields.io/badge/Parth-Pathak-brightgreen.svg?colorB=ff0000)](https://www.linkedin.com/in/parth-pathak-learner/)
-This code helps you to understand the different Searching algorithms. The sorting algorithms depicted in this code are:
+This code helps you to understand the different Cipher algorithms. The cipher algorithms depicted in this code are:
 
 1. Caesar Cipher
 2. Monoalphabetic Cipher
 3. Playfair Cipher
 
-### Sourcerer
+### Sourcerer   [![](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Ciphers/images/0)](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Ciphers/links/0)[![](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Ciphers/images/1)](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Ciphers/links/1)[![](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Ciphers/images/2)](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Ciphers/links/2)[![](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Ciphers/images/3)](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Ciphers/links/3)[![](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Ciphers/images/4)](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Ciphers/links/4)[![](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Ciphers/images/5)](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Ciphers/links/5)[![](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Ciphers/images/6)](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Ciphers/links/6)[![](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Ciphers/images/7)](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Ciphers/links/7)
 
 ### Code Requirements
 The example code is in Python ([version 3.8](https://www.python.org/downloads/) or higher will work).
